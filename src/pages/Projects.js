@@ -7,9 +7,9 @@ const projects = [
     link: "https://e-commerce-zeta-peach.vercel.app",
   },
   {
-    name: "Food Delivery App",
-    image: "/images/pro03.png",
-    link: "https://crud-plum-two.vercel.app",
+    name: "FG School Project",
+    image: "/images/school.png",
+    link: "https://school-frontend-lsg8.vercel.app/",
   },
   {
     name: "Qlab",
@@ -17,9 +17,9 @@ const projects = [
     link: "https://q-lab.vercel.app",
   },
   {
-    name: "CRUD Application",
-    image: "/images/div.png",
-    link: "https://crud-plum-two.vercel.app",
+    name: "Tic-Tac-Toe Game",
+    image: "/images/tictactoe.png",
+    link: "https://tic-tac-toe-game-lilac-mu.vercel.app/",
   },
   {
     name: "NetFlix",
